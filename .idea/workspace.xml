@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be1774b4-2c39-4940-a8bd-54b2840b829b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/组件学习/5.[jQuery EasyUI]第5章 Resizable(调整大小)组件/js/index.js" afterPath="$PROJECT_DIR$/组件学习/5.[jQuery EasyUI]第5章 Resizable(调整大小)组件/js/index.js" />
-    </list>
+    <list default="true" id="be1774b4-2c39-4940-a8bd-54b2840b829b" name="Default" comment="" />
     <ignored path="jq-easyui-ms.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,20 +24,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/组件学习/6.[jQuery EasyUI]第6章 Tooltip(提示框)组件/js/index.js">
+        <entry file="file://$PROJECT_DIR$/组件学习/7.[jQuery EasyUI]第7章 LinkButton(按钮)组件/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            <state relative-caret-position="264">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/组件学习/6.[jQuery EasyUI]第6章 Tooltip(提示框)组件/index.html">
+        <entry file="file://$PROJECT_DIR$/组件学习/7.[jQuery EasyUI]第7章 LinkButton(按钮)组件/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="311">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -70,6 +68,8 @@
         <option value="$PROJECT_DIR$/组件学习/5.[jQuery EasyUI]第5章 Resizable(调整大小)组件/js/index.js" />
         <option value="$PROJECT_DIR$/组件学习/6.[jQuery EasyUI]第6章 Tooltip(提示框)组件/index.html" />
         <option value="$PROJECT_DIR$/组件学习/6.[jQuery EasyUI]第6章 Tooltip(提示框)组件/js/index.js" />
+        <option value="$PROJECT_DIR$/组件学习/7.[jQuery EasyUI]第7章 LinkButton(按钮)组件/index.html" />
+        <option value="$PROJECT_DIR$/组件学习/7.[jQuery EasyUI]第7章 LinkButton(按钮)组件/js/index.js" />
       </list>
     </option>
   </component>
@@ -140,6 +140,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="组件学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jq-easyui-ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jq-easyui-ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="组件学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7.[jQuery EasyUI]第7章 LinkButton(按钮)组件" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jq-easyui-ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jq-easyui-ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="组件学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7.[jQuery EasyUI]第7章 LinkButton(按钮)组件" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -294,15 +334,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476966361152</updated>
-      <workItem from="1476966362567" duration="2925000" />
+      <workItem from="1476966362567" duration="3516000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2925000" />
+    <option name="totallyTimeSpent" value="3516000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="627" y="104" width="1333" height="886" extended-state="1" />
+    <frame x="627" y="104" width="1333" height="886" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15186028" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -417,18 +457,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/组件学习/6.[jQuery EasyUI]第6章 Tooltip(提示框)组件/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/组件学习/6.[jQuery EasyUI]第6章 Tooltip(提示框)组件/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/组件学习/6.[jQuery EasyUI]第6章 Tooltip(提示框)组件/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/组件学习/7.[jQuery EasyUI]第7章 LinkButton(按钮)组件/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/组件学习/7.[jQuery EasyUI]第7章 LinkButton(按钮)组件/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding />
         </state>
       </provider>
